@@ -2,14 +2,28 @@
     <channel>
         <title><![CDATA[Street]]></title>
         <description><![CDATA[Street]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/street/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 31 Oct 2015 15:18:50 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 31 Oct 2015 17:56:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/street/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Why don't Text Posts work?</p>]]></description>
+            <link>https://thegrid.ai/street/1b5f94ff-51b1-40d5-8610-fd37b794a350/index.html</link>
+            <guid isPermaLink="false">1b5f94ff-51b1-40d5-8610-fd37b794a350</guid>
+            <pubDate>Sat, 31 Oct 2015 15:54:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Text Post  - testing</p>]]></description>
+            <link>https://thegrid.ai/street/0c6f6c51-3876-4ccc-8cab-8030903fca24/index.html</link>
+            <guid isPermaLink="false">0c6f6c51-3876-4ccc-8cab-8030903fca24</guid>
+            <pubDate>Sat, 31 Oct 2015 15:27:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bad8559d-4073-4b96-83b3-92327cba0912.JPG">]]></description>
-            <link>undefined7849daf1-be45-4226-91ac-56d1cd7205cc/index.html</link>
+            <link>https://thegrid.ai/street/7849daf1-be45-4226-91ac-56d1cd7205cc/index.html</link>
             <guid isPermaLink="false">7849daf1-be45-4226-91ac-56d1cd7205cc</guid>
             <pubDate>Sat, 31 Oct 2015 15:18:44 GMT</pubDate>
         </item>
