@@ -1,0 +1,23 @@
+name: Street
+favicon: null
+layout_spectrum: 0.7992333497386426
+typography_spectrum: 0.11663449299521744
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.13414685823954642
+  lightness: 0.9639273346401751
+  saturation: 0.38109399843961
+  rhythmicContrast: 0.5989288303535432
+purpose: []
