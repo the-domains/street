@@ -4,8 +4,15 @@
         <description><![CDATA[Street]]></description>
         <link>https://thegrid.ai/street/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 31 Oct 2015 17:57:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Nov 2015 18:34:06 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/street/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[SUNDAY (Title)]]></title>
+            <description><![CDATA[<article><h1>SUNDAY (Title)</h1><p>description</p></article>]]></description>
+            <link>https://thegrid.ai/street/sunday-title/index.html</link>
+            <guid isPermaLink="false">e03b921d-a0e3-4e6c-98a2-27029efac1e4</guid>
+            <pubDate>Sun, 01 Nov 2015 18:33:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why  don't text posts work (Title)]]></title>
             <description><![CDATA[<article><h1>Why  don't text posts work (Title)</h1><p>Why don't Text Posts work?</p></article>]]></description>
